@@ -12,7 +12,7 @@ async redirects() {
     return [
       {
         source: '/discord',
-        destination: 'https://discord.gg/2Z4mD8Y',
+        destination: 'discordLink',
         permanent: true,
       },
     ]
