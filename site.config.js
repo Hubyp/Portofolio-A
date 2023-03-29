@@ -1,42 +1,42 @@
 module.exports = {
     base: 'https://janjytapyt.me',
     siteMetadata: {
-        title: 'JanjyTapYT | Website | Developer from Germany',
-        description: 'Im JanjyTapYT, a pro full stack developer from Germany',
-        author: 'JanjyTapYT',
-        authorImage: "https://cdn.discordapp.com/attachments/964255324687200328/1017078499217002496/Cool-Profile-Picture.jpg",
+        title: 'Hubyp | Website | Developer from Romania',
+        description: 'Im Hubyp, a pro full stack developer from Romania',
+        author: 'Hubyp',
+        authorImage: "",
         image: '/banner.png',
         favicon: '/favicon.png',
-        url: 'https://janjytapyt.me',
+        url: '',
         themeColor: '#0055ff',
-        email: 'me@janjytapyt.me',
+        email: '',
     },
     
     IndexPage: {
         lanyard: {
             enabled: true,
-            id: '679407120743137300',
+            id: '',
         }
     },
 
     AboutMePage: {
-        yourLand: 'Germany',
+        yourLand: 'Romania',
         developerGrade: 'Full Stack Developer',
         developerGrade2: 'Full Stack',
     },
 
     github: {
         enabled: true,
-        username: 'JanjyTapYT',
+        username: 'Hubyp',
     },
 
     social: {
-        twitter: 'https://twitter.com/JanjyTapYT',
-        github: 'https://github.com/JanjyTapYT',
-        linkedin: 'https://www.linkedin.com/in/janjytapyt/',
-        instagram: 'https://www.instagram.com/janjytap.yt/',
-        facebook: 'https://www.facebook.com/janjytapyt',
-        discord: 'https://discord.gg/4Z7Y4Z7',
+        twitter: 'https://twitter.com/name',
+        github: 'https://github.com/name',
+        linkedin: 'https://www.linkedin.com/in/name/',
+        instagram: 'https://www.instagram.com/name/',
+        facebook: 'https://www.facebook.com/name',
+        discord: 'DicordLink',
     },
 
     projects: {
@@ -61,13 +61,13 @@ module.exports = {
                 slug: "Janjyfy",
                 name: "Janjyfy", 
                 github: true,
-                githubLink: "https://github.com/Stoneclane-Development/Janjyfy-Bot",
+                githubLink: "",
                 website: false,
                 websiteLink: "",
                 invite: false,
                 inviteLink: "",
                 invite: true,
-                inviteLink: "https://discord.com/api/oauth2/authorize?client_id=995397263130112081&permissions=8&scope=bot%20applications.commands",
+                inviteLink: "",
                 description: "A Discord Moderation bot. This bot is easy to use.",
               },
               { 
